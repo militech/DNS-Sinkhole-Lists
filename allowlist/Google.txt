@@ -59,3 +59,8 @@
 @@||iosantiabuse-pa.googleapis.com^
 @@||youtubei.googleapis.com^
 @@||ajax.googleapis.com^
+@@||cloudidentity.googleapis.com^
+@@||taskassist-pa.googleapis.com^
+@@||subscriptionsmobile-pa.googleapis.com^
+@@||meetings.googleapis.com^
+@@||addons-pa.googleapis.com^
