@@ -20,6 +20,8 @@
 ||accountcapabilities-pa.googleapis.com^
 ||feedback-pa.googleapis.com^
 ||clienttracing-pa.googleapis.com^
-||people-pa.googleapis.com^
 ||peoplestack-pa.googleapis.com^
 ||ogads-pa.googleapis.com^
+||taskassist-pa.googleapis.com^
+||subscriptionsmobile-pa.googleapis.com^
+||addons-pa.googleapis.com^
