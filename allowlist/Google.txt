@@ -31,6 +31,7 @@
 @@||geo0.ggpht.com^
 @@||csp.withgoogle.com^
 @@||i.ytimg.com^
+@@||media.tenor.com^
 !
 ! APIs
 @@||maps.googleapis.com^
