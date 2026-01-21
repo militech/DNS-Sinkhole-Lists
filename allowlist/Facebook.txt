@@ -12,6 +12,7 @@
 @@||static.xx.fbcdn.net^
 @@||cdn.fbsbx.com^
 @@||upload.facebook.com^
+@@||graph.facebook.com^
 !
 ! Messenger
 @@||www.messenger.com^
