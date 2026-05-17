@@ -32,6 +32,7 @@
 @@||csp.withgoogle.com^
 @@||i.ytimg.com^
 @@||media.tenor.com^
+@@||yt3.ggpht.com^
 !
 ! APIs
 @@||maps.googleapis.com^
