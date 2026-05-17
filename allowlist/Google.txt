@@ -63,4 +63,6 @@
 @@||cloudidentity.googleapis.com^
 @@||meetings.googleapis.com^
 @@||people-pa.googleapis.com^
+@@||peoplestack-pa.googleapis.com^
 @@||accountsettingsmobile-pa.googleapis.com^
+@@||iid.googleapis.com^

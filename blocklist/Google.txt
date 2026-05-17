@@ -7,7 +7,6 @@
 ||play.googleapis.com^
 ||geller-pa.googleapis.com^
 ||scone-pa.googleapis.com^
-||iid.googleapis.com^
 ||fcmtoken.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||device-provisioning.googleapis.com^
@@ -20,7 +19,6 @@
 ||accountcapabilities-pa.googleapis.com^
 ||feedback-pa.googleapis.com^
 ||clienttracing-pa.googleapis.com^
-||peoplestack-pa.googleapis.com^
 ||ogads-pa.googleapis.com^
 ||taskassist-pa.googleapis.com^
 ||subscriptionsmobile-pa.googleapis.com^
