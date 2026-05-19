@@ -13,6 +13,7 @@
 @@||googlemaps.com^
 @@||googletranslate.com^
 @@||googleapps.com^
+@@||waze.com^
 !
 ! Other
 @@||gstatic.com^
